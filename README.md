@@ -5,8 +5,8 @@ Este projeto representa um template para o desenvolvimento de aplicações web f
 ## **Visão Geral**
 
 A aplicação é dividida em dois componentes principais:
-1. 
-2. **Backend (API RESTful)**:
+
+1. **Backend (API RESTful)**:
     - Construído com **Spring Boot**, um framework amplamente utilizado na comunidade Java para o desenvolvimento de aplicações robustas e performáticas.
     - Implementa uma arquitetura RESTful para expor endpoints que servirão como interface de comunicação com o frontend.
     - Inclui configurações para persistência de dados, segurança, e boas práticas de design de API.
